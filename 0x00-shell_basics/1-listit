@@ -1,5 +1,2 @@
 #!/bin/bash
-
-#the first script
-
 echo "ls"
