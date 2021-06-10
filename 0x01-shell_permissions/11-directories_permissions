@@ -1,2 +1,2 @@
 #!/bin/bash
-ech0 $(chmod 711 dir{0,3})
+chmod 711 dir{0,3}\n
