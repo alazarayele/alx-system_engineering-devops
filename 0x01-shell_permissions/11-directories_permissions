@@ -1,0 +1,3 @@
+#1/bin/bash
+chmod 711 dir0
+chomd 711 dir1
