@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(chmod 764 hell0)
+chmod 744 hell0
