@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 711 /root/alx-system_engineering-devops/
+chmod -R 111 /root/alx-system_engineering-devops/
