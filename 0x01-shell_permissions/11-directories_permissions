@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 dir{1,3}\n
+chmod  ugo+x /root/alx-system_engineering-devops/0x01-shell_permissions
