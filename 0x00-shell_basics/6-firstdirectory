@@ -1,2 +1,2 @@
 #!/bin/bash
-touch holberton ./tmp
+>/tmp/holberton
