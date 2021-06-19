@@ -1,0 +1,20 @@
+total 68
+drwxr-xr-x 2 root root 4096 Jun 19 00:31 .
+d--x--x--x 9 root root  270 Jun 18 03:06 ..
+-rwxrwxr-x 1 root root   32 Jun 18 23:52 0-hello_world
+-rwxrwxr-x 1 root root   34 Jun 16 09:55 0-hello_world~
+-rwxrwxr-x 1 root root   28 Jun 18 23:54 1-confused_smiley
+-rwxrwxr-x 1 root root   33 Jun 16 10:17 1-confused_smiley~
+-rwxrwxr-x 1 root root   29 Jun 19 00:08 2-hellofile
+-rwxrwxr-x 1 root root   28 Jun 18 23:59 2-hellofile~
+-rwxrwxr-x 1 root root   39 Jun 19 00:08 3-twofiles
+-rwxrwxr-x 1 root root   38 Jun 19 00:02 3-twofiles~
+-rwxrwxr-x 1 root root   35 Jun 19 00:07 4-lastlines
+-rwxrwxr-x 1 root root   34 Jun 19 00:03 4-lastlines~
+-rwxrwxr-x 1 root root   35 Jun 19 00:06 5-firstlines
+-rw-r--r-- 1 root root   35 Jun 19 00:06 5-firstlines~
+-rwxrwxr-x 1 root root   36 Jun 19 00:27 6-third_line
+-rwxrwxr-x 1 root root  110 Jun 19 00:29 7-file
+-rwxrwxr-x 1 root root   36 Jun 19 00:31 8-cwd_state
+-rw-r--r-- 1 root root   17 Jun 19 00:30 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Jun 19 00:31 ls_cwd_content
